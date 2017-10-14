@@ -1,0 +1,14 @@
+<Alloy>
+	<Window class="container">
+		<View id="view">
+			<Label id="label" onClick="doClick">Hello, World</Label>
+			<Label id="label2">Hey, Whats up??</Label>
+		</View>
+	</Window>
+</Alloy>
+
+<!-- Aquesta app serà per masteritzar coneixements com: 
+	- Android Theme
+	-  
+	
+-->
